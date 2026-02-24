@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Ashkan 👋
 
-<!--
-**Ashes1993/Ashes1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Product Engineer | UI/UX Enthusiast | Linux DevOps**
 
-Here are some ideas to get you started:
+I engineer complete, production-ready web products. I specialize in bridging the gap between highly interactive, glassmorphism-inspired frontends and robust, scalable backends. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Building
+* **Grimsy:** A full-stack social network for the horror community featuring real-time interactions, relational watchlists, and secure user authentication.
+* **Headless E-Commerce:** A digital storefront powered by a Next.js frontend and a custom Medusa.js backend.
+* **Infrastructure:** Deploying and managing applications independently on unmanaged Ubuntu VPS environments (Nginx, PM2, UFW).
+
+### 💻 Tech Stack
+* **Frontend:** Next.js, React, Tailwind CSS, Framer Motion
+* **Backend & DB:** PostgreSQL, REST APIs, Prisma, Medusa.js
+* **DevOps & Tools:** Linux (Ubuntu), Nginx, Git, Puppeteer (Web Scraping), Python
+
+### 📈 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Ashes1993&show_icons=true&theme=radical" alt="Ashkan's GitHub Stats" />
