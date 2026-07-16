@@ -1,4 +1,4 @@
-# Hi, I'm Ashes 👋
+# Hi, I'm Ashkan 👋
 
 I'm a Full Stack Developer passionate about building modern web applications with **Next.js**, **React**, **TypeScript**, and **PostgreSQL**.
 
